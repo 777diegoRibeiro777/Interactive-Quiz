@@ -39,7 +39,7 @@ Tela para mostrar os resultados.
 </p>
 
 <p align="center">
-  <a href="https://diegoribeiro.netlify.app/" style="font-weight: bold;" target="_blank">💎 Link para o projeto.</a>
+  <a href="https://interactive-quiz-ten.vercel.app/" style="font-weight: bold;" target="_blank">💎 Link para o projeto.</a>
 </p>
 
 ## 🚀 Tecnologias
@@ -60,6 +60,8 @@ Um elemento fundamental no desenvolvimento foi a utilização do Bulma, um frame
 No âmbito do desenvolvimento, Typescript e React desempenharam papéis cruciais. A estruturação das páginas, a tipagem de arquivos, a criação de componentes e o tratamento das informações provenientes da API foram facilitados pela combinação dessas tecnologias. A adoção de Typescript permitiu uma abordagem mais segura e robusta no desenvolvimento, tornando mais fácil a identificação e correção de erros durante o processo.
 
 Ao unir essas tecnologias e ferramentas, foi possível criar um quiz interativo, estilizado de forma atraente e com uma base sólida de desenvolvimento. O projeto destaca a sinergia entre Typescript, React, Bulma e a API utilizada, resultando em uma aplicação dinâmica, responsiva e envolvente para os usuários.
+
+<a href="https://opentdb.com/api_config.php" target="_blank">Mais informações sobre a Trivia API.</a>
 
 ## 🔖 Layout
 
